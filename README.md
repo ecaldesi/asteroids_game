@@ -1,4 +1,5 @@
-Implementation of the Asteroids Mini Game, Final Project for Fundamentals of Computing, created by Elisabetta Caldesi and Anthony DiFalco.
+# Asteroids Game
+By Elisabetta Caldesi and Anthony DiFalco. <br />
 
 USAGE
 -------------------
